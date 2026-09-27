@@ -75,4 +75,3 @@ const styles = {
   approveBtn: { flex: 1, padding: '8px', background: '#28a745', color: '#fff', border: 'none', borderRadius: '5px', fontWeight: 'bold', cursor: 'pointer' },
   rejectBtn: { flex: 1, padding: '8px', background: '#dc3545', color: '#fff', border: 'none', borderRadius: '5px', fontWeight: 'bold', cursor: 'pointer' }
 };
-          
